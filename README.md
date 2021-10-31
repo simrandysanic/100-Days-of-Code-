@@ -9,4 +9,4 @@
 <p>Code minimum an hour every day for the next 100 days.</p>
 <p>Tweet your progress every day with the #100DaysOfCode hashtag.</p>
 <hr>
-<h3><a href="https://simrandysanic.github.io/Daily-Log/">Daily Log</a></h3>
+<h3><a href="https://simrandysanic.github.io/dailylog/">Daily Log</a></h3>
