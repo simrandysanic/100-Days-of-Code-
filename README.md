@@ -1,5 +1,5 @@
 # -100-Days-of-Code-
-<p><a href="https://www.100daysofcode.com/">THE OFFICIAL WEBSITE</p>
+<p><a href="https://www.100daysofcode.com/">THE OFFICIAL WEBSITE</a></p>
 <hr>
 <p>I've decided to code at least for 1 hour everyday for the next 100 days.</p>
 <p>I'm making this a public committment.</p>
