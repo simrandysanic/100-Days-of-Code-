@@ -10,3 +10,5 @@
 <p>Tweet your progress every day with the #100DaysOfCode hashtag.</p>
 <hr>
 <h3><a href="https://simrandysanic.github.io/Daily-log-for-100-Days-of-Code-/">Daily Log</a></h3>
+<p><b>Tracker</b></p>
+<p>Day 1: ✔️</p>
