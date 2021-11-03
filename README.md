@@ -13,3 +13,5 @@
 <p><b>Tracker</b></p>
 <p>Day 1: ✔️</p>
 <p>Day 2: ✔️</p>
+<p>Day 3: ✔️</p>
+
