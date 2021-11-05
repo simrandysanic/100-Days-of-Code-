@@ -5,9 +5,10 @@
 <p>I'm making this a public committment.</p>
 <p>I'm taking this challenge because I want to work on my programming skills, and improve them.</p> 
 <hr>
-<h3>Two Main Rules</h3>
+<h3>Three Main Rules I'm Going to Follow</h3>
 <p>Code minimum an hour every day for the next 100 days.</p>
 <p>Tweet your progress every day with the #100DaysOfCode hashtag.</p>
+<p>Try to maintain streaks. However, if streak is broken, make sure to not break it the next day, and make up the next day for the day on which streak was broken.
 <hr>
 <h3><a href="https://simrandysanic.github.io/Daily-log-for-100-Days-of-Code-/">Daily Log</a></h3>
 <p><b>Tracker</b></p>
