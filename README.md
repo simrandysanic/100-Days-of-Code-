@@ -17,8 +17,8 @@
 <p>Day 3: ✔️</p>
 <p>Day 4: ❌</p> 
 <p>Day 5: ✔️</p>
+<p>Day 6: ✔️</p>
 <!--
-<p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
