@@ -2,7 +2,7 @@
 <p><a href="https://www.100daysofcode.com/">THE OFFICIAL WEBSITE</a></p>
 <hr>
 <p>I've decided to code at least for 1 hour everyday for the next 100 days.</p>
-<p>I'm making this a public committment.</p>
+<p>I'm making this a committment.</p>
 <p>I'm taking this challenge because I want to work on my programming skills, and improve them.</p> 
 <hr>
 <h3>Three Main Rules I'm Going to Follow</h3>
@@ -18,8 +18,8 @@
 <p>Day 4: ❌</p> 
 <p>Day 5: ✔️</p>
 <p>Day 6: ✔️</p>
+<p>Day 7: ❌</p>
 <!--
-<p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
@@ -81,5 +81,6 @@
 <p>Day 5:   </p>
 <p>Day 100:   </p>
 <p>Day 101:   </p>
+<p>Day 102:   </p>
 -->
 
