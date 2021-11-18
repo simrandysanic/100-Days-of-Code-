@@ -28,8 +28,8 @@
 <p>Day 14: ✔️</p>
 <p>Day 15: ✔️</p>
 <p>Day 16: ✔️</p>
-<p>Day 17: ✔️</p><!--
-<p>Day 5:   </p>
+<p>Day 17: ✔️</p>
+<p>Day 18: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
