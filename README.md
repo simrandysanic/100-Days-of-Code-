@@ -31,8 +31,8 @@
 <p>Day 17: ✔️</p>
 <p>Day 18: ✔️</p>
 <p>Day 19: ✔️</p>
-<p>Day 20: ✔️</p><!--
-<p>Day 5:   </p>
+<p>Day 20: ❌</p>
+<p>Day 21: ❌</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
