@@ -33,8 +33,8 @@
 <p>Day 19: ✔️</p>
 <p>Day 20: ❌</p>
 <p>Day 21: ❌</p>
-<p>Day 22: ✔️</p><!--
-<p>Day 5:   </p>
+<p>Day 22: ✔️</p>
+<p>Day 23: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
