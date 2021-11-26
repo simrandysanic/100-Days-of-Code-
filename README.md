@@ -36,8 +36,8 @@
 <p>Day 22: ✔️</p>
 <p>Day 23: ✔️</p>
 <p>Day 24: ✔️</p>
-<p>Day 25: ✔️</p><!--
-<p>Day 5:   </p>
+<p>Day 25: ✔️</p>
+<p>Day 26: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
