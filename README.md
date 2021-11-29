@@ -38,9 +38,9 @@
 <p>Day 24: ✔️</p>
 <p>Day 25: ✔️</p>
 <p>Day 26: ✔️</p>
-<p>Day 28: ✔️</p><!--
 <p>Day 27: ✔️</p>
-<p>Day 5:   </p>
+<p>Day 28: ✔️</p>
+<p>Day 29: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
