@@ -40,9 +40,9 @@
 <p>Day 26: ✔️</p>
 <p>Day 27: ✔️</p>
 <p>Day 28: ✔️</p>
-<p>Day 29: ✔️</p><!--
-<p>Day 5:   </p>
-<p>Day 5:   </p>
+<p>Day 29: ✔️</p>
+<p>Day 30: ✔️</p>
+<p>Day 31: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
