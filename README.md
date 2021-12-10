@@ -45,13 +45,13 @@
 <p>Day 31: ✔️</p>
 <p>Day 32: ✔️</p>
 <p>Day 33: ✔️</p>
-<p>Day 34: ✔️</p><!--
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
+<p>Day 34: ✔️</p>
+<p>Day 35: ❌</p>
+<p>Day 36: ❌</p>
+<p>Day 37: ❌</p>
+<p>Day 38: ❌</p>
+<p>Day 39: ❌</p>
+<p>Day 40: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
@@ -81,5 +81,12 @@
 <p>Day 100:   </p>
 <p>Day 101:   </p>
 <p>Day 102:   </p>
+<p>Day 103:   </p>
+<p>Day 104:   </p>
+<p>Day 105:   </p>
+<p>Day 106:   </p>
+<p>Day 107:   </p>
+<p>Day 108:   </p>
+<p>Day 109:   </p>
 -->
 
