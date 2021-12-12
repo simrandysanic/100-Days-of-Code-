@@ -51,9 +51,9 @@
 <p>Day 37: ❌</p>
 <p>Day 38: ❌</p>
 <p>Day 39: ❌</p>
-<p>Day 40: ✔️</p><!--
-<p>Day 5:   </p>
-<p>Day 5:   </p>
+<p>Day 40: ✔️</p>
+<p>Day 41: ✔️</p>
+<p>Day 42: ✔️</p><!--
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
