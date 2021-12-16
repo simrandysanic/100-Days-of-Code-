@@ -54,10 +54,10 @@
 <p>Day 40: ✔️</p>
 <p>Day 41: ✔️</p>
 <p>Day 42: ✔️</p><!--
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
-<p>Day 5:   </p>
+<p>Day 43: ✔️</p>
+<p>Day 44: ✔️</p>
+<p>Day 45: ✔️</p>
+<p>Day 46: ✔️</p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
 <p>Day 5:   </p>
